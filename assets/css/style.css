@@ -1,0 +1,45 @@
+body{
+	background-color: black;
+}
+
+
+header {
+	border:3px solid black;
+	border-color:purple;
+	font-size: 50px;
+	color:blue;
+	text-align: center;
+	margin: 15px auto;
+	height: 300px;
+	width: 80%;
+}
+.underscore {
+	border:3px solid black;
+	border-color:purple;
+	font-size: 100px;
+	color: blue;
+	text-align: center;
+	margin: 50px auto;
+	height: 150px;
+	width: 80%;
+}
+.rightGuess {
+	border:3px solid black;
+	border-color:purple;
+	font-size: 50px;
+	color:blue;
+	text-align: center;
+	margin: 50px auto;
+	height: 150px;
+	width: 80%;
+}
+.wrongGuess {
+	border:3px solid black;
+	border-color: purple;
+	font-size: 50px;
+	color:blue;
+	text-align: center;
+	margin: 50px auto;
+	height: 150px;
+	width: 80%;
+}
